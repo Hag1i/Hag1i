@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="css.css">
+    <title>Document</title>
+</head>
+<body class="body">
+    <input type="checkbox" id="nav-toggle" hidden>
+    <nav class="nav">    
+    <label for="nav-toggle" class="nav-toggle" onclick>
+    </label>
+    <h2 class="logo"> 
+        
+    </h2>
+    <ul>
+    <li><a href="#1">Один</a>
+    <li><a href="#2">Два</a>
+    <li><a href="#3">Три</a>
+    <li><a href="#4">Четыре</a>
+    <li><a href="#5">Пять</a>
+    <li><a href="#6">Шесть</a>
+    <li><a href="#7">Семь</a> 
+    </ul>
+    </nav>
+    <header class="header">
+        <div class="first">
+            <h1 class="h1">Gallery</h1>
+
+        </div>
+    </header>
+    <article class="content"> 
+		 
+         <a href="1 Picture.html" target="_blank"><img src="image/capple.jpg" class="image"></a>
+		<h1 class="h1cot">1 picture</h1>
+	</article>
+    <article class="content"> 
+		 
+        <a href="2 Picture.html" target="_blank"><img src="image/fig.jpg" class="image"></a>
+		<h1 class="h1cot">2 picture</h1>
+	</article>
+    <article class="content"> 
+		 
+        <a href="3 Picture.html" target="_blank"><img src="image/green.jpg" class="image"></a>
+		<h1 class="h1cot">3 picture</h1>
+	</article>
+    <article class="content"> 
+		 
+        <a href="4 Picture.html" target="_blank"><img src="image/pics.jpg" class="image"></a>
+		<h1 class="h1cot">4 picture</h1>
+	</article>
+    <article class="content">  
+		 
+        <a href="5 Picture.html" target="_blank"><img src="image/terra.jpg" class="image"></a>
+		<h1 class="h1cot">5 picture</h1>
+	</article>
+    <article class="content"> 
+		 
+        <a href="6 Picture.html " target="_blank"><img src="image/wardboard.jpg" class="image"></a>
+		<h1 class="h1cot">6 picture</h1>
+	</article>
+    <div class="link">
+        <h1 class="h1link">all link</h1>
+        <p class="plink">Мы рассказываем, что такое SendPulse и чем он вам поможет. Даем ссылки на полезные ресурсы. Дальше можно посмотреть на наших клиентов — мы гордимся работой с ними.
+
+            Перечисляем ценности и показываем лица наших руководителей. На странице также представлена история компании в систематизированном виде. Показаны последние ключевые события. Если пользователю интересно, он может раскрыть ранние периоды.
+            
+            Несколько фотографий рабочего пространства, промоматериалы и ссылки: на актуальные вакансии и для связи с нами. Завершаем призывом зарегистрироваться в сервисе.</p>
+
+    </div>
+    <footer class="end">
+        <h1 class="textfooter">
+            Whatsapp
+        </h1>
+        <img class="icon"  src="image/free-icon-whatsapp-1384023.png" alt="icon">
+    </footer>
+</body>
+</html>
